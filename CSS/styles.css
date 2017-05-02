@@ -1,0 +1,18 @@
+h1.boottime {
+  width: 50%;
+  color: blue;
+}
+
+p.sassy {
+  color: magenta;
+  font-weight: lighter;
+}
+
+img.POWER {
+  height: 900px;
+  width: 900px;
+}
+
+.great {
+  font-weight: bold;
+}
